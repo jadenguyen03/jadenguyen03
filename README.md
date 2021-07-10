@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jade Nguyen , an 18-year-old highschool girl from Vietnam
 - 👀 I’m interested in numbers and languages.
-- 🌱 I’m currently learning Logistics and Supply chain management in RMIT university in Vietnam.
-- 💞️ I’m looking to aquire some coding skills because I'm quite new to this
+- 🌱 I’m currently learning Logistics and Supply chain Management in RMIT university in Vietnam.
+- 💞️ I’m looking forward to aquire some coding skills because I'm quite new to this
 - 📫 How to reach me: just contact me via my email: tuyethan2003@gmail.com
 
 <!---
